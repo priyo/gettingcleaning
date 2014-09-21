@@ -16,6 +16,7 @@ The files included are
 ### Steps for converting the data
 
 1. Download the raw data files into a sub-directory "UCI HAR Dataset" of where the run_analysis.R script resides.  The expected directory structure is below
+```
      UCI HAR Dataset/
         activity_labels.txt
         features.txt
@@ -27,6 +28,7 @@ The files included are
     		X_test.txt
     		y_test.txt
     		subject_test.txt
+```    		
 2. Install dplyr package if not already installed.   Do 'install.packages("dplyr")' from R or R Studio shell
 3. Run the script.   Do 'source("run_analysis.R)' from R shell.  This should generate a file "tidy_data.txt" in the current directory
 4. You can view the data by running 'data <- read.table("tidy_data.txt", header = T)'
