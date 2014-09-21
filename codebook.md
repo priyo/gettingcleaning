@@ -32,8 +32,7 @@ The data was converted by following the below steps
 10. Remove the activity_num column
 11. Group the data from #10 by Subject and ActivityName
 12. Generate the mean of each mean/std columns for each group of Subject and ActivityName
-13. Verify that all the data looks correct
-14. Write the data to tidy_data.txt file using write.table
+13. Write the data to tidy_data.txt file using write.table
 
 
 ### Columns in the Tidy data
