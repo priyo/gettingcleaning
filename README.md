@@ -22,7 +22,7 @@ The files included are
         activity_labels.txt
         features.txt
         train/
-           X_traing.txt
+           X_train.txt
            y_train.txt
            subject_train.txt
     	test/
