@@ -3,7 +3,7 @@ Codebook for Human Activity Recognition Using Smartphones Tidy Dataset
 The raw dataset used was
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-The data merge process is show in the picture below (provided by TA David)
+The data merge process is show in the picture below (provided by TA David Hood)
 ![](https://coursera-forum-screenshots.s3.amazonaws.com/ab/a2776024af11e4a69d5576f8bc8459/Slide2.png?raw=true)
 
 The data was converted by following the below steps
